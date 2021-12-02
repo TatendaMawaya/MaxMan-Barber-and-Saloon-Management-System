@@ -1,0 +1,13 @@
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\bin\Debug\Saloon Management.exe.config
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\bin\Debug\Saloon.accdb
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\bin\Debug\Saloon Management.exe
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\bin\Debug\Saloon Management.pdb
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\bin\Debug\Saloon Management.xml
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon_Management.Form1.resources
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon_Management.LoginForm1.resources
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon_Management.Resources.resources
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon_Management.SplashScreen1.resources
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon Management.vbproj.GenerateResource.Cache
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon Management.exe
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon Management.xml
+C:\Users\Engineer Mawaya\Documents\Visual Studio 2012\Projects\Saloon Management\Saloon Management\obj\Debug\Saloon Management.pdb
